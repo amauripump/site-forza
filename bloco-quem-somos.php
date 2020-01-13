@@ -1,7 +1,7 @@
     <!--==========================
-      Call To Action Section
+      Nossa equipe
     ============================-->
-    <section id="nosso-blog" class="wow fadeInUp">
+    <section id="nossa-equipe" class="wow fadeInUp">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 text-center text-lg-left align-middle blog-col-1">
@@ -21,4 +21,4 @@
         </div>
 
       </div>
-    </section><!-- #call-to-action -->
+    </section><!-- Nossa equipe -->

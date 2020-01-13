@@ -9,7 +9,7 @@
             <p class="cta-text"> Receba os conteúdos da Forza no seu e-mail</p>
             <p class="cta-text"> 
 
-              <input class="form-control form-control-lg" type="text" placeholder="Seu e-mail">
+              <input id="newsletter-input" class="form-control form-control-lg" type="text" placeholder="Seu e-mail">
 
             </p>
             <p class="cta-text">

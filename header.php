@@ -64,10 +64,13 @@
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
           <li class="active"><a href="#intro">Início</a></li>
-          <li><a href="#about">Quem somos</a></li>
-          <li><a href="#services">Serviços</a></li>
-          <li><a href="#portfolio">Blog</a></li>
-          <li><a href="#footer">Contato</a></li>
+          <li><a href="quem-somos.php">Quem somos</a></li>
+          <li><a href="servicos.php">Serviços</a></li>
+          <li><a href="blog.php">Blog</a></li>
+          <li><a href="contato.php">Contato</a></li>
+          <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </nav><!-- .main-nav -->
       
